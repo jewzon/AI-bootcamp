@@ -24,19 +24,7 @@ This Python script allows you to interactively explore a dataset and plot differ
 
 ---
 
-## 🛠️ Requirements (if using local machine)
+## 🛠️ Requirements
 Install dependencies before running:
 ```bash
 pip install pandas matplotlib seaborn
-
-
-## 🔧 How to Use
-
-1. Place your dataset CSV file in the same folder as the script.  
-2. Update the script with your dataset name:  
-   ```python
-   df = pd.read_csv("your_dataset.csv")
-
-Run 
-```bash
-python visualization.py
